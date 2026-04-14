@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Line Dance Tracker icon">
+  <rect width="512" height="512" rx="96" fill="#0f766e"/>
+  <path fill="#ffffff" d="M133 122h246c20 0 36 16 36 36v196c0 20-16 36-36 36H133c-20 0-36-16-36-36V158c0-20 16-36 36-36Zm14 72v44h218v-44H147Zm0 86v44h94v-44h-94Zm132 0v44h86v-44h-86Z"/>
+  <path fill="#bfe6df" d="M130 406h252v34H130z"/>
+</svg>
